@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://yubingkun.github.io/watchHumen/atom.xml" rel="self"/>
+  <link href="https://yubingkun.github.io/atom.xml" rel="self"/>
   
-  <link href="https://yubingkun.github.io/watchHumen/"/>
+  <link href="https://yubingkun.github.io/"/>
   <updated>2024-01-30T06:46:07.168Z</updated>
-  <id>https://yubingkun.github.io/watchHumen/</id>
+  <id>https://yubingkun.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yubingkun.github.io/watchHumen/2024/01/30/hello-world/"/>
-    <id>https://yubingkun.github.io/watchHumen/2024/01/30/hello-world/</id>
+    <link href="https://yubingkun.github.io/2024/01/30/hello-world/"/>
+    <id>https://yubingkun.github.io/2024/01/30/hello-world/</id>
     <published>2024-01-30T06:46:07.168Z</published>
     <updated>2024-01-30T06:46:07.168Z</updated>
     
